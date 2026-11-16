@@ -13,6 +13,14 @@ ScholarSphere AI is an AI-powered platform that helps students find suitable int
 2. Nushrat Nabila – 11230321534
 3. Pashla Warisha Prova – 11230321316
 
+## Objectives
+- Recommend suitable universities and scholarships.
+- Explain eligibility based on available criteria.
+- Generate adaptive IELTS, TOEFL, and GRE study plans.
+- Create daily tasks and analyze preparation progress.
+- Assist with SOP, CV, and professor-email drafts.
+- Provide AI counselor guidance and application tracking.
+  
 ## Proposed Features
 - AI-based scholarship and university recommendations.
 - Student profile analysis and eligibility checking.
