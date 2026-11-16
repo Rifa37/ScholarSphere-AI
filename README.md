@@ -37,6 +37,7 @@ ScholarSphere AI is an AI-powered platform that helps students find suitable int
 - **AI Integration:** Gemini API
 - **Tools:** Git, GitHub, Figma
 
-## Project Status
-Initial Planning and Proposal Stage.
+## *Project Status*
+
+Initial Planning and Proposal Stage (Requirements Analysis, Proposal Development, SRS Preparation, System Diagrams, and UI Planning).
 
