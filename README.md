@@ -29,6 +29,14 @@ ScholarSphere AI is an AI-powered platform that helps students find suitable int
 - SOP, CV, and email assistance.
 - AI counselor chatbot.
 - Application and deadline tracking.
+  
+## Project Structure
+
+- frontend/ — Frontend application
+- backend/ — Backend application and API
+- database/ — Database design and source files
+- diagrams/ — System design diagrams
+- documentation/ — Project documentation
 
 ## Technology Stack
 - **Frontend:** React.js, HTML, CSS, JavaScript
