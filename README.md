@@ -39,5 +39,5 @@ ScholarSphere AI is an AI-powered platform that helps students find suitable int
 
 ## *Project Status*
 
-Initial Planning and Proposal Stage (Requirements Analysis, Proposal Development, SRS Preparation, System Diagrams, and UI Planning).
+Initial Planning and Proposal Stage (Requirements Analysis, Proposal Development, SRS Preparation, System Diagrams, and UI Planning). System design and software architecture phase.
 
